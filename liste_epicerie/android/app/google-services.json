@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "178948988947",
+    "project_id": "gestionnaire-d-epicerie",
+    "storage_bucket": "gestionnaire-d-epicerie.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178948988947:android:fe56eed35cd3bbeecb5fe6",
+        "android_client_info": {
+          "package_name": "ca.cal.tp4.lpf.liste_epicerie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178948988947-3sc04goklmctvlq8l2eoqkkmna3cldcj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtaOhB2XnKTNTFXsGTWWVsFbroPi6snnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178948988947-3sc04goklmctvlq8l2eoqkkmna3cldcj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
